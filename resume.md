@@ -1,52 +1,30 @@
 ---
-title: "C'thulhu Resume"
 layout: resume
+title: "Urwah Mir Resume"
 ---
-
-# C'thulhu
-
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
-
+# Urwah Mir
 ## Education
+### University of California, Davis
+### B.S in Computer Science
 
-### **Withering Madness University** Planet Vhoorl
-
-**Major:** Public Relations
-
-**Minor:** Scale Tending
-
-## Skills
-
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
-## Experience
-
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+## Activities & Experience
+### Lawrence Livermore National Lab
+### DevOps Intern
+- Added in “Group Project” functionality in web application LaunchIt
+- Used wrapper API to create Python functions to add/delete user roles and delete projects
+- Implemented Logging class to log the creation/deletion of roles and projects to a MongoDB and Splunk
+- Created Pytests to test both successful and unsuccessful runs of Python functions
+- Integrated Mattermost notification system into LaunchIt using webhooks
+- Used Gitlab for version control, CI/CD pipeline, and Issue boards to maintain DevOps practices
+## Projects
+### Linked List Class
+- Created a Linked List class in C++ to store pointers to a “Customer” class
+- Created recursive functions to delete the list, add a node, & delete a node
+### Chained Hash Table Class
+- Created a Chained Hash Table class by implementing arrays of “Employee” class pointers
+- Calculated Hash values using the ASCII summation method and compressed said value
+- Implemented Linear Probing technique to prevent hash collisions
+## Technical Skills
+- **Languages**: C++ (Proficient), Python (Proficient)
+- **Operating Systems**: macOS, Ubuntu, Windows
+- **IDEs**: Eclipse, CodeReady, Visual Studio Code, PyCharm
